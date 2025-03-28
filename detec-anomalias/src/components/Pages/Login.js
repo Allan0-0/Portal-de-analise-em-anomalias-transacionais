@@ -20,7 +20,7 @@ function Login (){
                 <div className={`${styles.form_container} `}>
                     <div>
                         <h1>Bem-vindo ao</h1>
-                        <h2>Portal de Anoma</h2>
+                        <h2>Portal de Anomalias</h2>
                     </div>
                     <form>
                         <div className={styles.form_group}>
